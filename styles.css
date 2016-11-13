@@ -1,0 +1,40 @@
+#page-wrap
+{width: 800px;
+margin: 0 auto;
+}
+
+.nav-bar ul, li
+{list-style-type: none;
+margin: 3.5px;
+padding:0;
+display:inline-flex;
+float: right;
+overflow: hidden;
+font-family: 'Droid Sans', sans-serif;
+}
+
+.nav-bar li a{text-decoration: none;
+display:block;
+color: #606060;
+text-align: center;
+padding: 10px 12px;
+font-size: 15px;
+font-weight: bolder;
+}
+
+.brand-logo{text-decoration: none;
+font-family: 'Droid Sans', sans-serif;
+color: #606060;
+padding: 10px 12px;
+font-size: 30px;
+font-weight: bolder;
+float: left;}
+
+.nav-bar a:hover{color:#d95843;}
+
+.section-home{background-color:black;}
+
+.home-img{float: right;
+}
+
+.para{float: left;}
